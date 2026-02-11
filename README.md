@@ -31,6 +31,7 @@ Consistent practice → Stronger fundamentals
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0127-word-ladder) |
+| [3719-longest-balanced-subarray-i](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/3719-longest-balanced-subarray-i) |
 ## String
 |  |
 | ------- |
@@ -39,4 +40,20 @@ Consistent practice → Stronger fundamentals
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0127-word-ladder) |
+## Array
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/3719-longest-balanced-subarray-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/3719-longest-balanced-subarray-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/3719-longest-balanced-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
