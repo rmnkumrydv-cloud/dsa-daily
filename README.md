@@ -19,7 +19,7 @@ All solutions are implemented in **Java**.
 
 ## LeetCode
 
-Solutions are synced directly from my LeetCode practice via LeetSync.
+Solutions are synced directly from my LeetCode practice via LeetHub.
 
 ---
 
