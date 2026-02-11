@@ -43,6 +43,7 @@ Consistent practice → Stronger fundamentals
 ## Array
 |  |
 | ------- |
+| [0875-koko-eating-bananas](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0875-koko-eating-bananas) |
 | [3719-longest-balanced-subarray-i](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/3719-longest-balanced-subarray-i) |
 ## Divide and Conquer
 |  |
@@ -56,4 +57,8 @@ Consistent practice → Stronger fundamentals
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/3719-longest-balanced-subarray-i) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
