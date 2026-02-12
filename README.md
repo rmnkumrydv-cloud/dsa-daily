@@ -30,6 +30,7 @@ Consistent practice → Stronger fundamentals
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0127-word-ladder) |
 | [3713-longest-balanced-substring-i](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/3719-longest-balanced-subarray-i) |
@@ -46,6 +47,7 @@ Consistent practice → Stronger fundamentals
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0041-first-missing-positive) |
 | [0162-find-peak-element](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0162-find-peak-element) |
 | [0875-koko-eating-bananas](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0875-koko-eating-bananas) |
 | [3719-longest-balanced-subarray-i](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/3719-longest-balanced-subarray-i) |
