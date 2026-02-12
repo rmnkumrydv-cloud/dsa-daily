@@ -31,11 +31,13 @@ Consistent practice → Stronger fundamentals
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0127-word-ladder) |
+| [3713-longest-balanced-substring-i](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/3719-longest-balanced-subarray-i) |
 ## String
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0127-word-ladder) |
+| [3713-longest-balanced-substring-i](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/3713-longest-balanced-substring-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -63,4 +65,12 @@ Consistent practice → Stronger fundamentals
 | ------- |
 | [0162-find-peak-element](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0162-find-peak-element) |
 | [0875-koko-eating-bananas](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0875-koko-eating-bananas) |
+## Counting
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/3713-longest-balanced-substring-i) |
+## Enumeration
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
