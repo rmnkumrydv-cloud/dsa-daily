@@ -36,6 +36,7 @@ Consistent practice → Stronger fundamentals
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0038-count-and-say) |
 | [0127-word-ladder](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0127-word-ladder) |
 | [3713-longest-balanced-substring-i](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/3713-longest-balanced-substring-i) |
 ## Breadth-First Search
