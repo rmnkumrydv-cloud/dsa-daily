@@ -50,6 +50,7 @@ Consistent practice → Stronger fundamentals
 | [0041-first-missing-positive](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0041-first-missing-positive) |
 | [0162-find-peak-element](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0162-find-peak-element) |
 | [0875-koko-eating-bananas](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [3719-longest-balanced-subarray-i](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/3719-longest-balanced-subarray-i) |
 ## Divide and Conquer
 |  |
@@ -68,6 +69,7 @@ Consistent practice → Stronger fundamentals
 | ------- |
 | [0162-find-peak-element](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0162-find-peak-element) |
 | [0875-koko-eating-bananas](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Counting
 |  |
 | ------- |
