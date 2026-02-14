@@ -80,4 +80,8 @@ Consistent practice → Stronger fundamentals
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/3713-longest-balanced-substring-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0799-champagne-tower](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0799-champagne-tower) |
 <!---LeetCode Topics End-->
