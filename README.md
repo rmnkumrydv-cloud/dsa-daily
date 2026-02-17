@@ -94,4 +94,12 @@ Consistent practice → Stronger fundamentals
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0410-split-array-largest-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0401-binary-watch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
