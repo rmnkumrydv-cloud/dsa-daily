@@ -102,4 +102,9 @@ Consistent practice → Stronger fundamentals
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0401-binary-watch) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Math
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
