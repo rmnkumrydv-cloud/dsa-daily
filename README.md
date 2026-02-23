@@ -39,6 +39,7 @@ Consistent practice → Stronger fundamentals
 | ------- |
 | [0038-count-and-say](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0072-edit-distance) |
+| [0087-scramble-string](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0087-scramble-string) |
 | [0127-word-ladder](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0127-word-ladder) |
 | [3713-longest-balanced-substring-i](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/3713-longest-balanced-substring-i) |
 ## Breadth-First Search
@@ -90,6 +91,7 @@ Consistent practice → Stronger fundamentals
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0072-edit-distance) |
+| [0087-scramble-string](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0087-scramble-string) |
 | [0410-split-array-largest-sum](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0410-split-array-largest-sum) |
 | [0799-champagne-tower](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0799-champagne-tower) |
 ## Greedy
