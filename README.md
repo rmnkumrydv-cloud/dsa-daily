@@ -47,6 +47,7 @@ Consistent practice → Stronger fundamentals
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0127-word-ladder) |
+| [0279-perfect-squares](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0279-perfect-squares) |
 ## Array
 |  |
 | ------- |
@@ -94,6 +95,7 @@ Consistent practice → Stronger fundamentals
 | [0072-edit-distance](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0091-decode-ways) |
+| [0279-perfect-squares](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0279-perfect-squares) |
 | [0410-split-array-largest-sum](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0410-split-array-largest-sum) |
 | [0799-champagne-tower](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0799-champagne-tower) |
 ## Greedy
@@ -112,6 +114,7 @@ Consistent practice → Stronger fundamentals
 ## Math
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0279-perfect-squares) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Tree
 |  |
