@@ -37,6 +37,7 @@ Consistent practice → Stronger fundamentals
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0006-zigzag-conversion) |
 | [0038-count-and-say](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0087-scramble-string) |
