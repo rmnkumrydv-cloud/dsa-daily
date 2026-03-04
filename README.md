@@ -51,6 +51,7 @@ Consistent practice → Stronger fundamentals
 | [0127-word-ladder](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0127-word-ladder) |
 | [0279-perfect-squares](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0322-coin-change) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Array
 |  |
 | ------- |
@@ -62,6 +63,7 @@ Consistent practice → Stronger fundamentals
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0875-koko-eating-bananas](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [3719-longest-balanced-subarray-i](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/3719-longest-balanced-subarray-i) |
@@ -139,4 +141,8 @@ Consistent practice → Stronger fundamentals
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Matrix
+|  |
+| ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1091-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
