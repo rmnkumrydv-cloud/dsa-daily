@@ -62,6 +62,7 @@ Consistent practice → Stronger fundamentals
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0416-partition-equal-subset-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0875-koko-eating-bananas](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -109,6 +110,7 @@ Consistent practice → Stronger fundamentals
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0416-partition-equal-subset-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0799-champagne-tower](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0799-champagne-tower) |
 ## Greedy
