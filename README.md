@@ -65,6 +65,7 @@ Consistent practice → Stronger fundamentals
 | [0416-partition-equal-subset-sum](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0416-partition-equal-subset-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0875-koko-eating-bananas](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0875-koko-eating-bananas) |
+| [0977-squares-of-a-sorted-array](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -149,4 +150,12 @@ Consistent practice → Stronger fundamentals
 |  |
 | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1091-shortest-path-in-binary-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0977-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
