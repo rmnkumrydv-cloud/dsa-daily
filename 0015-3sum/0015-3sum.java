@@ -1,24 +1,53 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        Arrays.sort(nums); // sorting helps with duplicates too
-        List<List<Integer>> res = new ArrayList<>();
-        HashSet<List<Integer>> set = new HashSet<>(); // to avoid duplicates
 
-        for (int i = 0; i < nums.length; i++) {
-            HashSet<Integer> map = new HashSet<>();
-            for (int j = i + 1; j < nums.length; j++) {
-                int third = -(nums[i] + nums[j]);
-                if (map.contains(third)) {
-                    List<Integer> triplet = Arrays.asList(nums[i], nums[j], third);
-                    Collections.sort(triplet);  // normalize order
-                    set.add(triplet);
-                } else {
-                    map.add(nums[j]);
+        List<List<Integer>> res = new ArrayList<>();
+
+        Arrays.sort(nums);
+
+        for(int i = 0; i < nums.length - 2; i++) {
+
+            
+            if(i > 0 && nums[i] == nums[i - 1]) {
+                continue;
+            }
+
+            int left = i + 1;
+            int right = nums.length - 1;
+
+            while(left < right) {
+
+                int sum = nums[i] + nums[left] + nums[right];
+                if(sum == 0) {
+
+                    res.add(Arrays.asList(
+                        nums[i],
+                        nums[left],
+                        nums[right]
+                    ));
+
+                    left++;
+                    right--;
+                    while(left < right &&
+                          nums[left] == nums[left - 1]) {
+                        left++;
+                    }
+
+                    while(left < right &&
+                          nums[right] == nums[right + 1]) {
+                        right--;
+                    }
+
+                }
+                else if(sum < 0) {
+                    left++;
+                }
+                else {
+                    right--;
                 }
             }
         }
 
-        res.addAll(set);
         return res;
     }
 }
