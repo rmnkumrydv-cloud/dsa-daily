@@ -57,6 +57,7 @@ Consistent practice → Stronger fundamentals
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0041-first-missing-positive) |
 | [0162-find-peak-element](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0162-find-peak-element) |
@@ -154,10 +155,12 @@ Consistent practice → Stronger fundamentals
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0015-3sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
