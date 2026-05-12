@@ -34,6 +34,7 @@ Consistent practice → Stronger fundamentals
 | [0041-first-missing-positive](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0142-linked-list-cycle-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/3719-longest-balanced-subarray-i) |
 ## String
@@ -159,6 +160,7 @@ Consistent practice → Stronger fundamentals
 | [0015-3sum](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0142-linked-list-cycle-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -169,4 +171,5 @@ Consistent practice → Stronger fundamentals
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
