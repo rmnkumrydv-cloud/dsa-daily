@@ -178,4 +178,9 @@ Consistent practice → Stronger fundamentals
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0142-linked-list-cycle-ii) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/2181-merge-nodes-in-between-zeros) |
+## Simulation
+|  |
+| ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/2181-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
