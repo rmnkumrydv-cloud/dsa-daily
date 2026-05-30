@@ -41,6 +41,7 @@ Consistent practice → Stronger fundamentals
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0006-zigzag-conversion) |
+| [0014-longest-common-prefix](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0087-scramble-string) |
@@ -59,6 +60,7 @@ Consistent practice → Stronger fundamentals
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0033-search-in-rotated-sorted-array) |
@@ -183,4 +185,8 @@ Consistent practice → Stronger fundamentals
 |  |
 | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/2181-merge-nodes-in-between-zeros) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
