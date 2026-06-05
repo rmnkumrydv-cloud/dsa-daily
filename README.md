@@ -125,6 +125,7 @@ Consistent practice → Stronger fundamentals
 | [0416-partition-equal-subset-sum](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0416-partition-equal-subset-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0799-champagne-tower](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0799-champagne-tower) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Greedy
 |  |
 | ------- |
@@ -149,6 +150,7 @@ Consistent practice → Stronger fundamentals
 | [0279-perfect-squares](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0279-perfect-squares) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Tree
 |  |
 | ------- |
