@@ -64,6 +64,7 @@ Consistent practice → Stronger fundamentals
 | [0015-3sum](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0041-first-missing-positive) |
 | [0162-find-peak-element](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0162-find-peak-element) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -140,6 +141,7 @@ Consistent practice → Stronger fundamentals
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0039-combination-sum) |
 | [0401-binary-watch](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0401-binary-watch) |
 ## Bit Manipulation
 |  |
