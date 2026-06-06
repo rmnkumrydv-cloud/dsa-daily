@@ -80,6 +80,7 @@ Consistent practice → Stronger fundamentals
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2126-destroying-asteroids](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/2126-destroying-asteroids) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2574-left-and-right-sum-differences](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/2574-left-and-right-sum-differences) |
 | [3719-longest-balanced-subarray-i](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/3719-longest-balanced-subarray-i) |
 ## Divide and Conquer
 |  |
@@ -93,6 +94,7 @@ Consistent practice → Stronger fundamentals
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0410-split-array-largest-sum) |
+| [2574-left-and-right-sum-differences](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/2574-left-and-right-sum-differences) |
 | [3719-longest-balanced-subarray-i](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
 |  |
