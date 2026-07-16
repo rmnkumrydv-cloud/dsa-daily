@@ -55,6 +55,7 @@ Consistent practice → Stronger fundamentals
 | [0127-word-ladder](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0127-word-ladder) |
 | [0279-perfect-squares](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0322-coin-change) |
+| [0743-network-delay-time](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0743-network-delay-time) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Array
 |  |
@@ -162,6 +163,7 @@ Consistent practice → Stronger fundamentals
 ## Depth-First Search
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0743-network-delay-time) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
@@ -200,4 +202,16 @@ Consistent practice → Stronger fundamentals
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0014-longest-common-prefix) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0743-network-delay-time) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
