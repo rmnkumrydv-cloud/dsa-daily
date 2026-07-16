@@ -57,6 +57,7 @@ Consistent practice → Stronger fundamentals
 | [0322-coin-change](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0322-coin-change) |
 | [0743-network-delay-time](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0743-network-delay-time) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Array
 |  |
 | ------- |
@@ -79,6 +80,7 @@ Consistent practice → Stronger fundamentals
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2126-destroying-asteroids](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/2126-destroying-asteroids) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/2195-append-k-integers-with-minimal-sum) |
@@ -173,6 +175,7 @@ Consistent practice → Stronger fundamentals
 |  |
 | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -206,12 +209,15 @@ Consistent practice → Stronger fundamentals
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0743-network-delay-time) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0743-network-delay-time) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0743-network-delay-time) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
