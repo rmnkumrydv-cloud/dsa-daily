@@ -82,6 +82,7 @@ Consistent practice → Stronger fundamentals
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1514-path-with-maximum-probability](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1514-path-with-maximum-probability) |
 | [2126-destroying-asteroids](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/2126-destroying-asteroids) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/2574-left-and-right-sum-differences) |
@@ -210,14 +211,17 @@ Consistent practice → Stronger fundamentals
 | ------- |
 | [0743-network-delay-time](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0743-network-delay-time) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1514-path-with-maximum-probability](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1514-path-with-maximum-probability) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0743-network-delay-time) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1514-path-with-maximum-probability](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1514-path-with-maximum-probability) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0743-network-delay-time) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1514-path-with-maximum-probability](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
