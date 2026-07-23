@@ -86,6 +86,7 @@ Consistent practice → Stronger fundamentals
 | [2126-destroying-asteroids](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/2126-destroying-asteroids) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/2574-left-and-right-sum-differences) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/3719-longest-balanced-subarray-i) |
 ## Divide and Conquer
 |  |
@@ -152,12 +153,14 @@ Consistent practice → Stronger fundamentals
 | ------- |
 | [0401-binary-watch](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0401-binary-watch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Math
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0279-perfect-squares) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Tree
 |  |
