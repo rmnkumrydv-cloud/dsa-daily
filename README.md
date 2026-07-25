@@ -161,6 +161,7 @@ Consistent practice → Stronger fundamentals
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/3536-maximum-product-of-two-digits) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Tree
 |  |
@@ -195,6 +196,7 @@ Consistent practice → Stronger fundamentals
 | [0977-squares-of-a-sorted-array](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0977-squares-of-a-sorted-array) |
 | [2126-destroying-asteroids](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/2126-destroying-asteroids) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/3536-maximum-product-of-two-digits) |
 ## Linked List
 |  |
 | ------- |
