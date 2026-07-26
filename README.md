@@ -74,6 +74,7 @@ Consistent practice → Stronger fundamentals
 | [0410-split-array-largest-sum](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0416-partition-equal-subset-sum) |
 | [0605-can-place-flowers](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0875-koko-eating-bananas](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0977-squares-of-a-sorted-array) |
@@ -158,6 +159,7 @@ Consistent practice → Stronger fundamentals
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0279-perfect-squares) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -193,6 +195,7 @@ Consistent practice → Stronger fundamentals
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0015-3sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0977-squares-of-a-sorted-array) |
 | [2126-destroying-asteroids](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/2126-destroying-asteroids) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/2195-append-k-integers-with-minimal-sum) |
