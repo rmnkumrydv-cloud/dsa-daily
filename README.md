@@ -82,6 +82,7 @@ Consistent practice → Stronger fundamentals
 | [1091-shortest-path-in-binary-matrix](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1514-path-with-maximum-probability](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1514-path-with-maximum-probability) |
 | [2126-destroying-asteroids](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/2126-destroying-asteroids) |
@@ -197,6 +198,7 @@ Consistent practice → Stronger fundamentals
 | [0015-3sum](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0015-3sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2126-destroying-asteroids](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/2126-destroying-asteroids) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/3536-maximum-product-of-two-digits) |
@@ -225,6 +227,7 @@ Consistent practice → Stronger fundamentals
 | ------- |
 | [0743-network-delay-time](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/0743-network-delay-time) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/rmnkumrydv-cloud/dsa-daily/tree/master/1514-path-with-maximum-probability) |
 ## Shortest Path
 |  |
